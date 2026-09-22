@@ -21,8 +21,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="./profile/stats.svg" />
-  <img height="150em" src="./profile/top-langs.svg" />
+  <img height="150em" src="https://github-stats-extended.vercel.app/api?username=MparrillaL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MparrillaL&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
