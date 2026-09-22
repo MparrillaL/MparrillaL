@@ -58,8 +58,8 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) con base en Python y Java. Ac
 ## Formación
 
 - Ciclo Superior en Desarrollo de Aplicaciones Web (DAW) — en curso
-- [Otros cursos o certificados]
-
+- Técnico en Redes y Sistemas Microinformáticos
+- Curso Intensivo Python (CEI)
 ---
 
 <div align="center">
