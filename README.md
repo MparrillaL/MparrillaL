@@ -50,7 +50,7 @@ Técnico en Redes y Sistemas Microinformáticos, actualmente cursando el Ciclo S
 - Diseño de una interfaz profesional y funcional.
 - Ampliación de funcionalidades y mejora de la experiencia de usuario.
 
-**Éxxta** — Técnico en Redes y Sistemas Microinformáticos  
+**Éxxita** — Técnico en Redes y Sistemas Microinformáticos  
 *Sevilla, España · Marzo 2025 – Junio 2025*
 - Diagnóstico y reparación de averías hardware y software en equipos microinformáticos.
 - Instalación y configuración de sistemas operativos, software y componentes de red.
