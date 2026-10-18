@@ -40,31 +40,6 @@ Técnico en Redes y Sistemas Microinformáticos, actualmente cursando el Ciclo S
 
 </div>
 
----
-
-## Experiencia profesional
-
-**Versus e-Learning** — Desarrollador de Aplicaciones Web  
-*Sevilla, España · Febrero 2026 – Abril 2026*
-- Participación en un proyecto simulado de desarrollo web completo, abarcando base de datos y aplicación.
-- Diseño de una interfaz profesional y funcional.
-- Ampliación de funcionalidades y mejora de la experiencia de usuario.
-
-**Éxxita** — Técnico en Redes y Sistemas Microinformáticos  
-*Sevilla, España · Marzo 2025 – Junio 2025*
-- Diagnóstico y reparación de averías hardware y software en equipos microinformáticos.
-- Instalación y configuración de sistemas operativos, software y componentes de red.
-- Sustitución de componentes y verificación final del equipo.
-- Trabajo bajo procedimientos internos de la empresa en todas las fases del proceso técnico.
-
-**Agernatura Nutrición** — Desarrollador Python  
-*Sevilla, España · Septiembre 2024 – Noviembre 2024*
-- Diseño y desarrollo de una aplicación para la gestión de formularios de clientes.
-- Creación de una interfaz gráfica de usuario amigable utilizando Python y Tkinter.
-- Validación de entradas de datos y diseño de procesos eficientes para mejorar la experiencia del usuario.
-- Comunicación directa con el cliente para adaptar el software a sus requerimientos específicos.
-
----
 
 ## Formación
 
