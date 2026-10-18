@@ -21,7 +21,6 @@ Técnico en Redes y Sistemas Microinformáticos, actualmente cursando el Ciclo S
 - Objetivo: primeras prácticas de FP Dual y primer empleo como desarrollador junior
 - Idiomas: Español (nativo) e Inglés (C1 - Aptis)
 
----
 
 ## Stack
 
